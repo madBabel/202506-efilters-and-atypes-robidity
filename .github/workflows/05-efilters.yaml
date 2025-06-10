@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Message
-        run: 'Running whenever branch is features'
+        run: echo 'Running whenever branch is features'
